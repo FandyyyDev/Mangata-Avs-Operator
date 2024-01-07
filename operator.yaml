@@ -1,6 +1,6 @@
 operator:
-    address: "0x27B480877FC2EeD6C9A05A802f89bC667A5f57FB"
-    earnings_receiver_address: "0x27B480877FC2EeD6C9A05A802f89bC667A5f57FB"
+    address: "0xef937A384C25D3a04738867f7b0900E40f8EE0D5"
+    earnings_receiver_address: "0xef937A384C25D3a04738867f7b0900E40f8EE0D5"
     delegation_approver_address: "0x0000000000000000000000000000000000000000"
     staker_opt_out_window_blocks: 0
     metadata_url: "https://white-inevitable-mule-992.mypinata.cloud/ipfs/QmUZk7r1Jp2EpaTX3mbwyRXaZmoUhhTAbZZBtBx4ApBDah"
